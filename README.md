@@ -7,7 +7,7 @@ Table of Contents
 4. Summary of the results
 5. Acknowledgements
 
-1. The libraries I have used
+The libraries I have used
 - numpy 
 - pandas
 - matplotlib.pyplot 
