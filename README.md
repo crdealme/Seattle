@@ -8,10 +8,10 @@ Table of Contents
 5. Acknowledgements
 
 1. The libraries I have used
-a. numpy 
-b. pandas
-c. matplotlib.pyplot 
-d. missingno 
+- numpy 
+- pandas
+- matplotlib.pyplot 
+- missingno 
 
 2. Project Motivation
 The project motivation aims to answer the following questions (using the CRISP-DM Process):
