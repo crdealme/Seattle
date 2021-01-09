@@ -34,4 +34,5 @@ Summary of the results
 - Each review variable is poorly correlated with price. Based on data, we can't say that the review metrics influence prices.
 
 Acknowledgements
+
 My acknowledgements to Kaggle and Udacity Course.
